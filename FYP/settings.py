@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'FYP.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'APFAST',
+        'NAME': 'apfast',
         'USER': 'root',
         'PASSWORD': 'FYPreactzzz',
         'PORT': 3306,
